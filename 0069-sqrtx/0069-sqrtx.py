@@ -1,10 +1,18 @@
 class Solution:
     def mySqrt(self, x: int) -> int:
-        if x == 0 or x == 1:
+        if x < 2:
             return x
 
-        for num in range(1, x+1):
-            if num*num > x:
-                return num-1
+        l, r = 1, x//2
+        res = -1
+
+        while l<=r:
+            m = (l + r) // 2
+            m_sq = m * m
+            if m_sq <= x:
+                res = m
+                l = m + 1
+            else:
+                r = m - 1
         
-        
+        return res

@@ -14,6 +14,6 @@ class Solution:
                 lowest = currEatingRate + 1
             else:
                 highest = currEatingRate - 1
-                bestEatingRate = min(bestEatingRate, currEatingRate)
+                bestEatingRate = currEatingRate
 
         return bestEatingRate

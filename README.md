@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/yashsandansing/leetcode-solutions/tree/master/0155-min-stack) |
 | [0394-decode-string](https://github.com/yashsandansing/leetcode-solutions/tree/master/0394-decode-string) |
 | [0931-maximum-frequency-stack](https://github.com/yashsandansing/leetcode-solutions/tree/master/0931-maximum-frequency-stack) |
+| [2236-maximum-twin-sum-of-a-linked-list](https://github.com/yashsandansing/leetcode-solutions/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 ## Design
 |  |
 | ------- |
@@ -105,9 +106,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/yashsandansing/leetcode-solutions/tree/master/0002-add-two-numbers) |
+| [2236-maximum-twin-sum-of-a-linked-list](https://github.com/yashsandansing/leetcode-solutions/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/yashsandansing/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/yashsandansing/leetcode-solutions/tree/master/0042-trapping-rain-water) |
+| [2236-maximum-twin-sum-of-a-linked-list](https://github.com/yashsandansing/leetcode-solutions/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 <!---LeetCode Topics End-->

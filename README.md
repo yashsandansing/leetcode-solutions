@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/yashsandansing/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0316-remove-duplicate-letters](https://github.com/yashsandansing/leetcode-solutions/tree/master/0316-remove-duplicate-letters) |
 | [0394-decode-string](https://github.com/yashsandansing/leetcode-solutions/tree/master/0394-decode-string) |
+| [1351-replace-the-substring-for-balanced-string](https://github.com/yashsandansing/leetcode-solutions/tree/master/1351-replace-the-substring-for-balanced-string) |
 | [2884-length-of-the-longest-valid-substring](https://github.com/yashsandansing/leetcode-solutions/tree/master/2884-length-of-the-longest-valid-substring) |
 ## Recursion
 |  |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [1351-replace-the-substring-for-balanced-string](https://github.com/yashsandansing/leetcode-solutions/tree/master/1351-replace-the-substring-for-balanced-string) |
 | [2884-length-of-the-longest-valid-substring](https://github.com/yashsandansing/leetcode-solutions/tree/master/2884-length-of-the-longest-valid-substring) |
 ## Tree
 |  |

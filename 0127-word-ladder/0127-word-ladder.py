@@ -22,20 +22,16 @@ class Solution:
         while q:
             for _ in range(len(q)):
                 curr = q.popleft()
-                visited.add(curr)
 
-                if curr == endWord:
-                    return steps
-                # print('entering check condition for', curr)
                 for ind in range(len(curr)):
                     key = curr[:ind] + '*' + curr[ind+1:]
-                    # print('checking for', key, star_map[key])
+
                     for value in star_map[key]:
+                        if value == endWord:
+                            return steps + 1
                         if value not in visited:
                             q.append(value)
                             visited.add(value)
-                            
-                # print('q status', list(q))
-                # print('visited status', visited)
+
             steps += 1
-        return steps if steps == endWord else 0
+        return 0

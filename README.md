@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/yashsandansing/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/yashsandansing/leetcode-solutions/tree/master/0008-string-to-integer-atoi) |
 | [0071-simplify-path](https://github.com/yashsandansing/leetcode-solutions/tree/master/0071-simplify-path) |
+| [0127-word-ladder](https://github.com/yashsandansing/leetcode-solutions/tree/master/0127-word-ladder) |
 | [0242-valid-anagram](https://github.com/yashsandansing/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0394-decode-string](https://github.com/yashsandansing/leetcode-solutions/tree/master/0394-decode-string) |
 | [2884-length-of-the-longest-valid-substring](https://github.com/yashsandansing/leetcode-solutions/tree/master/2884-length-of-the-longest-valid-substring) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/yashsandansing/leetcode-solutions/tree/master/0127-word-ladder) |
 | [0242-valid-anagram](https://github.com/yashsandansing/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0931-maximum-frequency-stack](https://github.com/yashsandansing/leetcode-solutions/tree/master/0931-maximum-frequency-stack) |
 | [2884-length-of-the-longest-valid-substring](https://github.com/yashsandansing/leetcode-solutions/tree/master/2884-length-of-the-longest-valid-substring) |
@@ -157,4 +159,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/yashsandansing/leetcode-solutions/tree/master/0102-binary-tree-level-order-traversal) |
+| [0127-word-ladder](https://github.com/yashsandansing/leetcode-solutions/tree/master/0127-word-ladder) |
 <!---LeetCode Topics End-->

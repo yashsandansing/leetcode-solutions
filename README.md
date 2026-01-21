@@ -135,4 +135,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2884-length-of-the-longest-valid-substring](https://github.com/yashsandansing/leetcode-solutions/tree/master/2884-length-of-the-longest-valid-substring) |
+## Tree
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/yashsandansing/leetcode-solutions/tree/master/0098-validate-binary-search-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/yashsandansing/leetcode-solutions/tree/master/0098-validate-binary-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/yashsandansing/leetcode-solutions/tree/master/0098-validate-binary-search-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/yashsandansing/leetcode-solutions/tree/master/0098-validate-binary-search-tree) |
 <!---LeetCode Topics End-->

@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/yashsandansing/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0316-remove-duplicate-letters](https://github.com/yashsandansing/leetcode-solutions/tree/master/0316-remove-duplicate-letters) |
 | [0394-decode-string](https://github.com/yashsandansing/leetcode-solutions/tree/master/0394-decode-string) |
+| [0567-permutation-in-string](https://github.com/yashsandansing/leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [1351-replace-the-substring-for-balanced-string](https://github.com/yashsandansing/leetcode-solutions/tree/master/1351-replace-the-substring-for-balanced-string) |
 | [2884-length-of-the-longest-valid-substring](https://github.com/yashsandansing/leetcode-solutions/tree/master/2884-length-of-the-longest-valid-substring) |
 ## Recursion
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0127-word-ladder](https://github.com/yashsandansing/leetcode-solutions/tree/master/0127-word-ladder) |
 | [0242-valid-anagram](https://github.com/yashsandansing/leetcode-solutions/tree/master/0242-valid-anagram) |
+| [0567-permutation-in-string](https://github.com/yashsandansing/leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [0931-maximum-frequency-stack](https://github.com/yashsandansing/leetcode-solutions/tree/master/0931-maximum-frequency-stack) |
 | [2884-length-of-the-longest-valid-substring](https://github.com/yashsandansing/leetcode-solutions/tree/master/2884-length-of-the-longest-valid-substring) |
 ## Ordered Set
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/yashsandansing/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/yashsandansing/leetcode-solutions/tree/master/0042-trapping-rain-water) |
+| [0567-permutation-in-string](https://github.com/yashsandansing/leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/yashsandansing/leetcode-solutions/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 ## Backtracking
 |  |
@@ -143,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0567-permutation-in-string](https://github.com/yashsandansing/leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [1351-replace-the-substring-for-balanced-string](https://github.com/yashsandansing/leetcode-solutions/tree/master/1351-replace-the-substring-for-balanced-string) |
 | [2884-length-of-the-longest-valid-substring](https://github.com/yashsandansing/leetcode-solutions/tree/master/2884-length-of-the-longest-valid-substring) |
 ## Tree

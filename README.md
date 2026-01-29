@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/yashsandansing/leetcode-solutions/tree/master/0127-word-ladder) |
+| [0219-contains-duplicate-ii](https://github.com/yashsandansing/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/yashsandansing/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0567-permutation-in-string](https://github.com/yashsandansing/leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [0931-maximum-frequency-stack](https://github.com/yashsandansing/leetcode-solutions/tree/master/0931-maximum-frequency-stack) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/yashsandansing/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/yashsandansing/leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/yashsandansing/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
+| [0219-contains-duplicate-ii](https://github.com/yashsandansing/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 | [0410-split-array-largest-sum](https://github.com/yashsandansing/leetcode-solutions/tree/master/0410-split-array-largest-sum) |
 | [0907-koko-eating-bananas](https://github.com/yashsandansing/leetcode-solutions/tree/master/0907-koko-eating-bananas) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/yashsandansing/leetcode-solutions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
@@ -155,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/yashsandansing/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
+| [0219-contains-duplicate-ii](https://github.com/yashsandansing/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 | [0567-permutation-in-string](https://github.com/yashsandansing/leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [1351-replace-the-substring-for-balanced-string](https://github.com/yashsandansing/leetcode-solutions/tree/master/1351-replace-the-substring-for-balanced-string) |
 | [2884-length-of-the-longest-valid-substring](https://github.com/yashsandansing/leetcode-solutions/tree/master/2884-length-of-the-longest-valid-substring) |

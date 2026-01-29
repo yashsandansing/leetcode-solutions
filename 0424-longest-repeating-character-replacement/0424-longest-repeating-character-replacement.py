@@ -9,7 +9,11 @@ class Solution:
         maxFreq = 0
         for ind, r in enumerate(s):
             freqCount[r] = freqCount.get(r, 0) + 1
+
+            # maxFreq is only updated when it increments
+            # because we are interested in searching for maxFreq + 1 windows only
             maxFreq = max(maxFreq, freqCount[r])
+            # decrement if current substitutions exceeds allowed
             if (ind-l+1) - maxFreq > k:
                 freqCount[s[l]]-=1
                 l+=1

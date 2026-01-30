@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/yashsandansing/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/yashsandansing/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 | [0410-split-array-largest-sum](https://github.com/yashsandansing/leetcode-solutions/tree/master/0410-split-array-largest-sum) |
+| [0658-find-k-closest-elements](https://github.com/yashsandansing/leetcode-solutions/tree/master/0658-find-k-closest-elements) |
 | [0907-koko-eating-bananas](https://github.com/yashsandansing/leetcode-solutions/tree/master/0907-koko-eating-bananas) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/yashsandansing/leetcode-solutions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1185-find-in-mountain-array](https://github.com/yashsandansing/leetcode-solutions/tree/master/1185-find-in-mountain-array) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/yashsandansing/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0374-guess-number-higher-or-lower](https://github.com/yashsandansing/leetcode-solutions/tree/master/0374-guess-number-higher-or-lower) |
 | [0410-split-array-largest-sum](https://github.com/yashsandansing/leetcode-solutions/tree/master/0410-split-array-largest-sum) |
+| [0658-find-k-closest-elements](https://github.com/yashsandansing/leetcode-solutions/tree/master/0658-find-k-closest-elements) |
 | [0907-koko-eating-bananas](https://github.com/yashsandansing/leetcode-solutions/tree/master/0907-koko-eating-bananas) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/yashsandansing/leetcode-solutions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1185-find-in-mountain-array](https://github.com/yashsandansing/leetcode-solutions/tree/master/1185-find-in-mountain-array) |
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/yashsandansing/leetcode-solutions/tree/master/0242-valid-anagram) |
+| [0658-find-k-closest-elements](https://github.com/yashsandansing/leetcode-solutions/tree/master/0658-find-k-closest-elements) |
 ## Linked List
 |  |
 | ------- |
@@ -146,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/yashsandansing/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/yashsandansing/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0567-permutation-in-string](https://github.com/yashsandansing/leetcode-solutions/tree/master/0567-permutation-in-string) |
+| [0658-find-k-closest-elements](https://github.com/yashsandansing/leetcode-solutions/tree/master/0658-find-k-closest-elements) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/yashsandansing/leetcode-solutions/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 ## Backtracking
 |  |
@@ -165,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/yashsandansing/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/yashsandansing/leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/yashsandansing/leetcode-solutions/tree/master/0567-permutation-in-string) |
+| [0658-find-k-closest-elements](https://github.com/yashsandansing/leetcode-solutions/tree/master/0658-find-k-closest-elements) |
 | [1351-replace-the-substring-for-balanced-string](https://github.com/yashsandansing/leetcode-solutions/tree/master/1351-replace-the-substring-for-balanced-string) |
 | [2884-length-of-the-longest-valid-substring](https://github.com/yashsandansing/leetcode-solutions/tree/master/2884-length-of-the-longest-valid-substring) |
 ## Tree
@@ -194,4 +199,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/yashsandansing/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0658-find-k-closest-elements](https://github.com/yashsandansing/leetcode-solutions/tree/master/0658-find-k-closest-elements) |
 <!---LeetCode Topics End-->

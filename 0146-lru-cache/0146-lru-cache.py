@@ -35,18 +35,26 @@ class LRUCache:
             return -1
         
         node = self.hmap[key]
+        # remove element and append it at the end
+        # of the list
         self.remove(node)
         self.insert(node)
         return node.val
     
     def put(self, key: int, value: int) -> None:
+        # remove element from the list if it already exists
+        # (to update)
         if self.hmap.get(key) is not None:
             val = self.hmap[key]
             self.remove(val)
         
+        # re-map the key-value in the hash-map
         self.hmap[key] = Node(key, value)
+        # insert at the end of the list (to maintain recent order)
         self.insert(self.hmap[key])
 
+        # if most recently added element causes an overflow
+        # remove the LRU element
         if len(self.hmap) > self.capacity:
             rm = self.first.next
             self.remove(rm)

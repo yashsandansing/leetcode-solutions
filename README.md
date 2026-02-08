@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0146-lru-cache](https://github.com/yashsandansing/leetcode-solutions/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/yashsandansing/leetcode-solutions/tree/master/0155-min-stack) |
+| [0460-lfu-cache](https://github.com/yashsandansing/leetcode-solutions/tree/master/0460-lfu-cache) |
 | [0860-design-circular-queue](https://github.com/yashsandansing/leetcode-solutions/tree/master/0860-design-circular-queue) |
 | [0931-maximum-frequency-stack](https://github.com/yashsandansing/leetcode-solutions/tree/master/0931-maximum-frequency-stack) |
 ## String
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/yashsandansing/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/yashsandansing/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/yashsandansing/leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
+| [0460-lfu-cache](https://github.com/yashsandansing/leetcode-solutions/tree/master/0460-lfu-cache) |
 | [0567-permutation-in-string](https://github.com/yashsandansing/leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [0931-maximum-frequency-stack](https://github.com/yashsandansing/leetcode-solutions/tree/master/0931-maximum-frequency-stack) |
 | [2884-length-of-the-longest-valid-substring](https://github.com/yashsandansing/leetcode-solutions/tree/master/2884-length-of-the-longest-valid-substring) |
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0092-reverse-linked-list-ii](https://github.com/yashsandansing/leetcode-solutions/tree/master/0092-reverse-linked-list-ii) |
 | [0146-lru-cache](https://github.com/yashsandansing/leetcode-solutions/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/yashsandansing/leetcode-solutions/tree/master/0206-reverse-linked-list) |
+| [0460-lfu-cache](https://github.com/yashsandansing/leetcode-solutions/tree/master/0460-lfu-cache) |
 | [0860-design-circular-queue](https://github.com/yashsandansing/leetcode-solutions/tree/master/0860-design-circular-queue) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/yashsandansing/leetcode-solutions/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 ## Two Pointers
@@ -226,4 +229,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/yashsandansing/leetcode-solutions/tree/master/0146-lru-cache) |
+| [0460-lfu-cache](https://github.com/yashsandansing/leetcode-solutions/tree/master/0460-lfu-cache) |
 <!---LeetCode Topics End-->

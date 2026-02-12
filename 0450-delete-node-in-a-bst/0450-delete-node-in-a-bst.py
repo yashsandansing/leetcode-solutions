@@ -7,11 +7,15 @@
 class Solution:
     def deleteNode(self, root: Optional[TreeNode], key: int) -> Optional[TreeNode]:
         
+        # add a dummy node for
+        # 1. empty nodes (root => None)
+        # 2. if key == root.val
         dummy = TreeNode(val = float('inf'), left = root)
         node = dummy
 
         while node:
             if key < node.val:
+                # key does not exist in tree
                 if node.left is None:
                     break
                 if node.left.val == key:
@@ -20,6 +24,7 @@ class Solution:
                 node = node.left
 
             elif key > node.val:
+                # key does not exist in tree
                 if node.right is None:
                     break
                 if node.right.val == key:
@@ -30,11 +35,14 @@ class Solution:
         return dummy.left
 
     def rebalance(self, node):
+        # if either is None, return the other subtree
         if node.right is None:
             return node.left
         if node.left is None:
             return node.right
         
+        # append left subtree to
+        # right subtree's left-most leaf node
         base = node.right
         temp = node.left
         curr = base

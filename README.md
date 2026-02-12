@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/yashsandansing/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 | [0287-find-the-duplicate-number](https://github.com/yashsandansing/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0410-split-array-largest-sum](https://github.com/yashsandansing/leetcode-solutions/tree/master/0410-split-array-largest-sum) |
+| [0427-construct-quad-tree](https://github.com/yashsandansing/leetcode-solutions/tree/master/0427-construct-quad-tree) |
 | [0658-find-k-closest-elements](https://github.com/yashsandansing/leetcode-solutions/tree/master/0658-find-k-closest-elements) |
 | [0860-design-circular-queue](https://github.com/yashsandansing/leetcode-solutions/tree/master/0860-design-circular-queue) |
 | [0907-koko-eating-bananas](https://github.com/yashsandansing/leetcode-solutions/tree/master/0907-koko-eating-bananas) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/yashsandansing/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/yashsandansing/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
+| [0427-construct-quad-tree](https://github.com/yashsandansing/leetcode-solutions/tree/master/0427-construct-quad-tree) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -209,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/yashsandansing/leetcode-solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/yashsandansing/leetcode-solutions/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/yashsandansing/leetcode-solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0427-construct-quad-tree](https://github.com/yashsandansing/leetcode-solutions/tree/master/0427-construct-quad-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/yashsandansing/leetcode-solutions/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/yashsandansing/leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/yashsandansing/leetcode-solutions/tree/master/0701-insert-into-a-binary-search-tree) |
@@ -261,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/yashsandansing/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/yashsandansing/leetcode-solutions/tree/master/0023-merge-k-sorted-lists) |
+| [0427-construct-quad-tree](https://github.com/yashsandansing/leetcode-solutions/tree/master/0427-construct-quad-tree) |
 ## Heap (Priority Queue)
 |  |
 | ------- |

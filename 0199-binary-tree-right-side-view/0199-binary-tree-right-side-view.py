@@ -6,16 +6,22 @@
 #         self.right = right
 class Solution:
     def rightSideView(self, root: Optional[TreeNode]) -> List[int]:
-        if root is None:
-            return []
-        q = deque([root])
+        # use stack for LIFO
         res = []
-        while q:
-            res.append(q[-1].val)
-            for _ in range(len(q)):
-                node = q.popleft()
-                if node.left:
-                    q.append(node.left)
-                if node.right:
-                    q.append(node.right)
+        stack = [(root, 0)]
+        # maintain a lvl variable to track
+        # which height we are at 
+        lvl = -1
+        while stack:
+            # pop the rightmost variable first
+            node, curr_lvl = stack.pop()
+            if node is not None:
+                # add child nodes with lvl + 1
+                stack.append((node.left, curr_lvl+1))
+                stack.append((node.right, curr_lvl+1))
+                # if nodes in this level have not been touched
+                # add the right most node and update lvl
+                if curr_lvl > lvl:
+                    res.append(node.val)
+                    lvl = curr_lvl
         return res

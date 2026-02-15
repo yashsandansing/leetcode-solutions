@@ -1,5 +1,6 @@
 class Solution:
     def generateParenthesis(self, n: int) -> List[str]:
+        # refer backtrack notes in obsidian
         stack = []
         res = []
 

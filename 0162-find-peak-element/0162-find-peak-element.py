@@ -12,5 +12,6 @@ class Solution:
             # it's a downward slope ahead, go right
             else:
                 r = mid
-        
+        # could return either l or r since 
+        # they'll be equal in the end
         return l

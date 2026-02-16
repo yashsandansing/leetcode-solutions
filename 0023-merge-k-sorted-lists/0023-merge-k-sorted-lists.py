@@ -3,25 +3,36 @@
 #     def __init__(self, val=0, next=None):
 #         self.val = val
 #         self.next = next
-
-class Solution:    
+class Solution:
     def mergeKLists(self, lists: List[Optional[ListNode]]) -> Optional[ListNode]:
-        head = ListNode()
-        node = head
+        if not lists:
+            return None
 
-        while True:
-            smallest = [0, float('inf')]
-            empty = True
-            for ind, ll in enumerate(lists):
-                if ll is not None:
-                    if ll.val<smallest[1]:
-                        smallest = ind, ll.val
-                    empty = False
-            if empty == True:
-                break
-            next_node = lists[smallest[0]]
-            lists[smallest[0]] = next_node.next
-            
-            node.next = next_node
-            node = node.next            
-        return head.next
+        while len(lists) > 1:
+            mergedLists = []
+            for i in range(0, len(lists), 2):
+                l1 = lists[i]
+                l2 = lists[i+1] if i+1<len(lists) else None
+                merged = self.mergeList(l1, l2)
+                mergedLists.append(merged)
+            lists = mergedLists
+        return lists[0]
+
+    def mergeList(self, l1, l2):
+        dummy = ListNode()
+        node = dummy
+        while l1 and l2:
+            if l1.val > l2.val:
+                node.next = l2
+                l2 = l2.next
+            else:
+                node.next = l1
+                l1 = l1.next
+            node = node.next
+
+        if l1:
+            node.next = l1
+        else:
+            node.next = l2
+        # print('returning', dummy.next.val)
+        return dummy.next

@@ -13,17 +13,16 @@ class Solution:
         l = 0
         r = len(height) - 1
         total = 0
-        max_l = height[l]
-        max_r = height[r]
+        max_l = max_r = 0
 
         while l<r:
             if height[l] <= height[r]:
-                l += 1
                 max_l = max(max_l, height[l])
                 total += max_l - height[l]
+                l += 1
             else:
-                r -= 1
                 max_r = max(max_r, height[r])
                 total += max_r - height[r]
+                r -= 1
         
         return total

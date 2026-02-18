@@ -1,22 +1,29 @@
 class Solution:
     def trap(self, height: List[int]) -> int:
+        # num -> 1 to large number
+        # ret -> 0 to inf.
+        
+        # 2 pointers. l and r
+        # point to start and end
+        # move l when l<=r
+        # move r otherwise
+        # collect water by calculating the difference
+        # after collecting update heights and compare
 
-        trapped = 0
-        l, r = 0, len(height) - 1
-        max_l = max_r = 0
+        l = 0
+        r = len(height) - 1
+        total = 0
+        max_l = height[l]
+        max_r = height[r]
 
         while l<r:
-            if height[r] > height[l]:
-                max_l = max(max_l, height[l])
-                trapped += max_l - height[l]
+            if height[l] <= height[r]:
                 l += 1
+                max_l = max(max_l, height[l])
+                total += max_l - height[l]
             else:
-                max_r = max(max_r, height[r])
-                trapped += max_r - height[r]
                 r -= 1
+                max_r = max(max_r, height[r])
+                total += max_r - height[r]
         
-        return trapped
-
-            
-            
-        
+        return total

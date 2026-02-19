@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-design-circular-queue](https://github.com/yashsandansing/leetcode-solutions/tree/master/0860-design-circular-queue) |
 | [0907-koko-eating-bananas](https://github.com/yashsandansing/leetcode-solutions/tree/master/0907-koko-eating-bananas) |
 | [0912-random-pick-with-weight](https://github.com/yashsandansing/leetcode-solutions/tree/master/0912-random-pick-with-weight) |
+| [1014-k-closest-points-to-origin](https://github.com/yashsandansing/leetcode-solutions/tree/master/1014-k-closest-points-to-origin) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/yashsandansing/leetcode-solutions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1185-find-in-mountain-array](https://github.com/yashsandansing/leetcode-solutions/tree/master/1185-find-in-mountain-array) |
 | [2884-length-of-the-longest-valid-substring](https://github.com/yashsandansing/leetcode-solutions/tree/master/2884-length-of-the-longest-valid-substring) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/yashsandansing/leetcode-solutions/tree/master/0069-sqrtx) |
 | [0089-gray-code](https://github.com/yashsandansing/leetcode-solutions/tree/master/0089-gray-code) |
 | [0912-random-pick-with-weight](https://github.com/yashsandansing/leetcode-solutions/tree/master/0912-random-pick-with-weight) |
+| [1014-k-closest-points-to-origin](https://github.com/yashsandansing/leetcode-solutions/tree/master/1014-k-closest-points-to-origin) |
 ## Matrix
 |  |
 | ------- |
@@ -186,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/yashsandansing/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/yashsandansing/leetcode-solutions/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0658-find-k-closest-elements](https://github.com/yashsandansing/leetcode-solutions/tree/master/0658-find-k-closest-elements) |
+| [1014-k-closest-points-to-origin](https://github.com/yashsandansing/leetcode-solutions/tree/master/1014-k-closest-points-to-origin) |
 ## Linked List
 |  |
 | ------- |
@@ -318,12 +321,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/yashsandansing/leetcode-solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/yashsandansing/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0427-construct-quad-tree](https://github.com/yashsandansing/leetcode-solutions/tree/master/0427-construct-quad-tree) |
+| [1014-k-closest-points-to-origin](https://github.com/yashsandansing/leetcode-solutions/tree/master/1014-k-closest-points-to-origin) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/yashsandansing/leetcode-solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/yashsandansing/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0658-find-k-closest-elements](https://github.com/yashsandansing/leetcode-solutions/tree/master/0658-find-k-closest-elements) |
+| [1014-k-closest-points-to-origin](https://github.com/yashsandansing/leetcode-solutions/tree/master/1014-k-closest-points-to-origin) |
 ## Queue
 |  |
 | ------- |
@@ -341,8 +346,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/yashsandansing/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [1014-k-closest-points-to-origin](https://github.com/yashsandansing/leetcode-solutions/tree/master/1014-k-closest-points-to-origin) |
 ## Randomized
 |  |
 | ------- |
 | [0912-random-pick-with-weight](https://github.com/yashsandansing/leetcode-solutions/tree/master/0912-random-pick-with-weight) |
+## Geometry
+|  |
+| ------- |
+| [1014-k-closest-points-to-origin](https://github.com/yashsandansing/leetcode-solutions/tree/master/1014-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->

@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/yashsandansing/leetcode-solutions/tree/master/0155-min-stack) |
 | [0316-remove-duplicate-letters](https://github.com/yashsandansing/leetcode-solutions/tree/master/0316-remove-duplicate-letters) |
 | [0394-decode-string](https://github.com/yashsandansing/leetcode-solutions/tree/master/0394-decode-string) |
+| [0636-exclusive-time-of-functions](https://github.com/yashsandansing/leetcode-solutions/tree/master/0636-exclusive-time-of-functions) |
 | [0931-maximum-frequency-stack](https://github.com/yashsandansing/leetcode-solutions/tree/master/0931-maximum-frequency-stack) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/yashsandansing/leetcode-solutions/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/yashsandansing/leetcode-solutions/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/yashsandansing/leetcode-solutions/tree/master/0410-split-array-largest-sum) |
 | [0419-battleships-in-a-board](https://github.com/yashsandansing/leetcode-solutions/tree/master/0419-battleships-in-a-board) |
 | [0427-construct-quad-tree](https://github.com/yashsandansing/leetcode-solutions/tree/master/0427-construct-quad-tree) |
+| [0636-exclusive-time-of-functions](https://github.com/yashsandansing/leetcode-solutions/tree/master/0636-exclusive-time-of-functions) |
 | [0658-find-k-closest-elements](https://github.com/yashsandansing/leetcode-solutions/tree/master/0658-find-k-closest-elements) |
 | [0860-design-circular-queue](https://github.com/yashsandansing/leetcode-solutions/tree/master/0860-design-circular-queue) |
 | [0907-koko-eating-bananas](https://github.com/yashsandansing/leetcode-solutions/tree/master/0907-koko-eating-bananas) |

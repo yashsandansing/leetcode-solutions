@@ -1,36 +1,46 @@
 class Solution:
     def longestPalindrome(self, s: str) -> str:
-        # edge case -> empty or 1 len string
-        if len(s) <= 1:
-            return s
+        # min? 1 to 1k
+        # only letters and digits
+        # babad -> bab or aba
+        
+        # brute force -> i and j
+        # if normal string == reversed string, compare it with len of best string
+        # if >, update best string
+        # return
 
-        def expand(l, r):
-            # loop to check if current elements are same
-            # if they are expand and check next outer elements
-            while l>=0 and r<=len(s)-1 and s[l] == s[r]:
+        # O(n^2). 
+        # O(N)
+        # brute force
+        # best = ""
+        # n = len(s)
+        # for i in range(n):
+        #     for j in range(i, n):
+        #         substr = s[i:j+1]
+        #         if substr == substr[::-1] and len(substr) > len(best):
+        #             best = substr
+        
+        # return best
+
+        # Optimized 2 pointer
+        # treat each index as center
+        # keep expanding until palindrome
+        # update best accordingly
+
+        def expand_helper(l, r):
+            while l>=0 and r<len(s) and s[l] == s[r]:
                 l -= 1
                 r += 1
-            # return l+1 since thats our starting point
-            # return r to stop
-            # why not return r-1 too -> could be less than l+1 (in even cases like 'cb')
-            # also we anyways add +1 when calculating and updating string
-            return l+1, r
+            
+            return s[l+1:r]
 
-        res = ""
-
-        for ind in range(len(s) - 1):
-
-            # for odd
-            l, r = expand(ind, ind)
-            if r-l > len(res):
-                res = s[l:r]
-
-            # even-len palindromes
-
-            # ind + 1 does not throw an IndexError
-            # due to the checks implemented in the expand function
-            l, r = expand(ind, ind + 1)
-            if r-l > len(res):
-                res = s[l:r]
+        best = ""
         
-        return res
+        for ind, center in enumerate(s):
+            # TODO: check oob
+            for c1, c2 in [(ind, ind), (ind, ind+1)]:
+                curr_best = expand_helper(c1, c2)
+                if len(curr_best) > len(best):
+                    best = curr_best
+        
+        return best

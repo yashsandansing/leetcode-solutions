@@ -17,21 +17,36 @@ class Solution:
         # if keep = 0 and open bracket => remove this from res
         # return res
 
-        res = list(s)
-        stack = []
-        for ind, char in enumerate(res):
-            if char == "(":
-                stack.append(ind)
-            elif char == ")":
-                if stack:
-                    stack.pop()
-                else:
-                    res[ind] = ""
-            else:
-                continue
+        extra_opens = total_opens = 0
+        temp = ""
+        # loop 1 for alpha and closes
+        for char in s:
+            if char == '(':
+                total_opens += 1
+                extra_opens += 1
+                temp += char
 
-        # handle open substrings
-        while stack:
-            res[stack.pop()] = ""
+            elif char == ')':
+                if extra_opens == 0:
+                    continue
+                extra_opens -= 1
+                temp += char
+
+            else:
+                temp += char
         
-        return "".join(res)
+        if extra_opens == 0: return temp
+        
+        res = ""
+        # loop 2 for extra_opens
+        keep = total_opens - extra_opens
+
+        for char in temp:
+            if char == "(":
+                if keep > 0:
+                    res += char
+                    keep -= 1
+            else:
+                res += char
+
+        return res

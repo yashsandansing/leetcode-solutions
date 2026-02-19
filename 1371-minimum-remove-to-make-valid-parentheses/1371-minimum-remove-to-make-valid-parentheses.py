@@ -1,23 +1,37 @@
 class Solution:
     def minRemoveToMakeValid(self, s: str) -> str:
-        s = list(s)
-        # use stack to maintain brackets
+        # empty return -> valid
+        # closed should have open. open should be closed
+
+
+        # 2 pass
+        # extra_open - brackets
+        # total_open - all open brackets
+        # ( -> increment
+        # ) -> dec extra_open
+        # if extra_open == 0: and ) => remove this element
+
+        # handle open brackets: 
+        # keep = total - extra
+        # each open -> dec keep by 1
+        # if keep = 0 and open bracket => remove this from res
+        # return res
+
+        res = list(s)
         stack = []
-        for ind, char in enumerate(s):
-            # if open bracket -> add to stack
+        for ind, char in enumerate(res):
             if char == "(":
                 stack.append(ind)
-            # if closed bracket encountered, pop from stack
-            # if nothing to pop -> set current value to empty (invalid bracket)
             elif char == ")":
                 if stack:
                     stack.pop()
                 else:
-                    s[ind] = ""
-        # after iterating over entire string, 
-        # if stack not empty (open bracket invalid -> not found it's closing)
-        # invalidate open bracket's indices by setting to ""
+                    res[ind] = ""
+            else:
+                continue
+
+        # handle open substrings
         while stack:
-            s[stack.pop()] = ""
+            res[stack.pop()] = ""
         
-        return "".join(s)
+        return "".join(res)

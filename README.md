@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1351-replace-the-substring-for-balanced-string](https://github.com/yashsandansing/leetcode-solutions/tree/master/1351-replace-the-substring-for-balanced-string) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/yashsandansing/leetcode-solutions/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [2884-length-of-the-longest-valid-substring](https://github.com/yashsandansing/leetcode-solutions/tree/master/2884-length-of-the-longest-valid-substring) |
+| [4055-longest-balanced-substring-i](https://github.com/yashsandansing/leetcode-solutions/tree/master/4055-longest-balanced-substring-i) |
 ## Recursion
 |  |
 | ------- |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0931-maximum-frequency-stack](https://github.com/yashsandansing/leetcode-solutions/tree/master/0931-maximum-frequency-stack) |
 | [2884-length-of-the-longest-valid-substring](https://github.com/yashsandansing/leetcode-solutions/tree/master/2884-length-of-the-longest-valid-substring) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/yashsandansing/leetcode-solutions/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
+| [4055-longest-balanced-substring-i](https://github.com/yashsandansing/leetcode-solutions/tree/master/4055-longest-balanced-substring-i) |
 ## Ordered Set
 |  |
 | ------- |
@@ -381,4 +383,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/yashsandansing/leetcode-solutions/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
+## Counting
+|  |
+| ------- |
+| [4055-longest-balanced-substring-i](https://github.com/yashsandansing/leetcode-solutions/tree/master/4055-longest-balanced-substring-i) |
+## Enumeration
+|  |
+| ------- |
+| [4055-longest-balanced-substring-i](https://github.com/yashsandansing/leetcode-solutions/tree/master/4055-longest-balanced-substring-i) |
 <!---LeetCode Topics End-->

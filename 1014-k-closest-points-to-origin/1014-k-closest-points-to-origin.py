@@ -1,18 +1,26 @@
 class Solution:
     def kClosest(self, points: List[List[int]], k: int) -> List[List[int]]:
-
-        def helper(x, y):
-            squared_distance = (x)**2 + (y)**2
-            return squared_distance**0.5
+        # heap
+        # points.len == 1 => k != 2
+        # len => 1 to 10^4
+        # order doesnt matter
         
+        # go through the list
+        # calc dist to origin and push it to max_heap if curr_dist < heap[0]
+        # heap => (dist, ind)
+        # iterate through the heap => pop and append to res
+
         heap = []
         heapq.heapify(heap)
+        # -10, -8
 
-        for ind, (x, y) in enumerate(points):
-            curr_dist = x**2 + y**2
-            heapq.heappush(heap, (-curr_dist, x, y))
-
-            if len(heap) > k:
-                heapq.heappop(heap)
-
-        return [[x, y] for d,x,y in heap]
+        for idx, (x, y) in enumerate(points):
+            curr_dist = -1 * (x**2 + y**2)
+            
+            if len(heap) < k:
+                heapq.heappush(heap, [curr_dist, x, y])
+            
+            elif heap[0][0] < curr_dist:
+                heapq.heappushpop(heap, [curr_dist, x, y])
+        
+        return [[x, y] for idx, x, y in heap]

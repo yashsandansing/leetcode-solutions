@@ -16,16 +16,14 @@ class Solution:
 
         # guessing that it sorts by i[0] and i[1]
         intervals.sort()
-
         stack = [intervals[0]]
 
-        for idx in range(len(intervals)):
+        for idx in range(1, len(intervals)):
             curr_start, curr_end = intervals[idx]
             prev_start, prev_end = stack[-1]
 
             if prev_end >= curr_start:
-                stack.pop()
-                stack.append([prev_start, max(prev_end, curr_end)])
+                stack[-1][1] = max(prev_end, curr_end)
             else:
                 stack.append([curr_start, curr_end])
 

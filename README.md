@@ -179,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/yashsandansing/leetcode-solutions/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/yashsandansing/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0089-gray-code](https://github.com/yashsandansing/leetcode-solutions/tree/master/0089-gray-code) |
+| [0670-maximum-swap](https://github.com/yashsandansing/leetcode-solutions/tree/master/0670-maximum-swap) |
 | [0912-random-pick-with-weight](https://github.com/yashsandansing/leetcode-solutions/tree/master/0912-random-pick-with-weight) |
 | [1014-k-closest-points-to-origin](https://github.com/yashsandansing/leetcode-solutions/tree/master/1014-k-closest-points-to-origin) |
 ## Matrix
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/yashsandansing/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0316-remove-duplicate-letters](https://github.com/yashsandansing/leetcode-solutions/tree/master/0316-remove-duplicate-letters) |
 | [0410-split-array-largest-sum](https://github.com/yashsandansing/leetcode-solutions/tree/master/0410-split-array-largest-sum) |
+| [0670-maximum-swap](https://github.com/yashsandansing/leetcode-solutions/tree/master/0670-maximum-swap) |
 | [0680-valid-palindrome-ii](https://github.com/yashsandansing/leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
 ## Prefix Sum
 |  |

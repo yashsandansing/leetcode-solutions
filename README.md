@@ -302,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0450-delete-node-in-a-bst](https://github.com/yashsandansing/leetcode-solutions/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/yashsandansing/leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/yashsandansing/leetcode-solutions/tree/master/0701-insert-into-a-binary-search-tree) |
+| [2347-count-nodes-equal-to-average-of-subtree](https://github.com/yashsandansing/leetcode-solutions/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -321,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0339-nested-list-weight-sum](https://github.com/yashsandansing/leetcode-solutions/tree/master/0339-nested-list-weight-sum) |
 | [0419-battleships-in-a-board](https://github.com/yashsandansing/leetcode-solutions/tree/master/0419-battleships-in-a-board) |
 | [0543-diameter-of-binary-tree](https://github.com/yashsandansing/leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
+| [2347-count-nodes-equal-to-average-of-subtree](https://github.com/yashsandansing/leetcode-solutions/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -348,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0450-delete-node-in-a-bst](https://github.com/yashsandansing/leetcode-solutions/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/yashsandansing/leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/yashsandansing/leetcode-solutions/tree/master/0701-insert-into-a-binary-search-tree) |
+| [2347-count-nodes-equal-to-average-of-subtree](https://github.com/yashsandansing/leetcode-solutions/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
 ## Breadth-First Search
 |  |
 | ------- |

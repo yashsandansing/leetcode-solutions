@@ -1,18 +1,26 @@
 class Solution:
     def lengthOfLongestSubstring(self, s: str) -> int:
-        # sliding window approach
-        last_index = {}  # store last occurence
-        l = 0
-        res = 0
-        for r in range(len(s)):
-            
-            # check if element in current list
-            if s[r] in last_index:
-                # update l directly instead of incrementing by 1
-                # max operation to avoid going back
-                l = max(last_index[s[r]] + 1, l)
-            last_index[s[r]] = r
-
-            res = max(res, r - l + 1)
+        # len -> 0 to 10^4
+        # letters digits symbols spaces
         
-        return res
+        # brute force -> i, j
+        # initialize a dict => enter current val and max_freq. if max_freq > 1. break out of j
+        # return best_len
+
+        # abcdb
+
+        best = 0
+        n = len(s)
+        l = r = 0
+        last_occurence = dict()
+        while r < n:
+            
+            char = s[r]
+            
+            if char in last_occurence:
+                l = max(l, last_occurence[char] + 1)
+            last_occurence[char] = r
+            best = max(best, r - l + 1)
+            r += 1
+
+        return best

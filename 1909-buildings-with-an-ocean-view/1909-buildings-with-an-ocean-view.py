@@ -13,13 +13,22 @@ class Solution:
 
         res = []
         n = len(heights)
-        max_height = float('-inf')
+        # if stack is empty or curr height < stack[-1] -> add curr ind to stack
+        # if not, while curr_height >= stack[-1]: stack.pop() => stack.append(curr_height)
+        stack = []  # idx, height
 
-        for h in range(n-1, -1, -1):
-            if heights[h] <= max_height:
+        # 0, 4
+        # 2, 3
+        # 3, 1
+
+        for ind, h in enumerate(heights):
+            if not stack or stack[-1][1] > h:
+                stack.append([ind, h])
                 continue
-            else:
-                max_height = heights[h]
-                res.append(h)
+            while stack and stack[-1][1] <= h:
+                stack.pop()
+            stack.append([ind, h])
         
-        return res[::-1]
+        return [idx for idx, h in stack]
+
+        

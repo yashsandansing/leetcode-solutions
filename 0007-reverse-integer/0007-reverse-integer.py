@@ -10,7 +10,6 @@ class Solution:
         # x = x // 10 => 0
         num = 0
         sign = 1
-        MIN_INT = -2**31
         MAX_INT = (2**31) - 1
         
         if x < 0:
@@ -21,6 +20,6 @@ class Solution:
             num = num * 10 + (x % 10)
             x = x // 10
         
-        if not (MIN_INT < sign * num < MAX_INT):
-                return 0
+        if num > MAX_INT:
+            return 0
         return sign*num

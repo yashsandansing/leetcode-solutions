@@ -1,15 +1,24 @@
 class Solution:
     def containsNearbyDuplicate(self, nums: List[int], k: int) -> bool:
-        # solution: store a hashmap of last counts
-        lastCount = dict() # element: last_index
+        # len -> at least 1, 10^5
+        # nums can be negative
+        # num can be duplicated
+        
+        # [1, 0, 1, 1] => k = 1
+        #  0  1  2  3     idx
+        
 
-        # for each element, check if element has occured previously
-        # if it has, subtract the indices to get the result
-        # if result <= k return true, else false
-        for ind, num in enumerate(nums):
-            
-            if lastCount.get(num) is not None and abs(lastCount[num] - ind) <= k:
+        # hashmap -> value: index
+        # when you encounter a number, check if it exists within the hashmap
+        # if it does subtract its value from the current index -> if <= k, return true
+        # hashmap[ele] = index
+
+        last_occurence = dict()
+
+        for idx, num in enumerate(nums):
+            if num in last_occurence and idx - last_occurence[num] <= k:
                 return True
-            lastCount[num] = ind
+
+            last_occurence[num] = idx
 
         return False

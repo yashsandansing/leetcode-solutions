@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/yashsandansing/leetcode-solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/yashsandansing/leetcode-solutions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1059-missing-element-in-sorted-array](https://github.com/yashsandansing/leetcode-solutions/tree/master/1059-missing-element-in-sorted-array) |
+| [1171-shortest-path-in-binary-matrix](https://github.com/yashsandansing/leetcode-solutions/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1185-find-in-mountain-array](https://github.com/yashsandansing/leetcode-solutions/tree/master/1185-find-in-mountain-array) |
 | [1646-kth-missing-positive-number](https://github.com/yashsandansing/leetcode-solutions/tree/master/1646-kth-missing-positive-number) |
 | [1909-buildings-with-an-ocean-view](https://github.com/yashsandansing/leetcode-solutions/tree/master/1909-buildings-with-an-ocean-view) |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0419-battleships-in-a-board](https://github.com/yashsandansing/leetcode-solutions/tree/master/0419-battleships-in-a-board) |
 | [0427-construct-quad-tree](https://github.com/yashsandansing/leetcode-solutions/tree/master/0427-construct-quad-tree) |
 | [0854-making-a-large-island](https://github.com/yashsandansing/leetcode-solutions/tree/master/0854-making-a-large-island) |
+| [1171-shortest-path-in-binary-matrix](https://github.com/yashsandansing/leetcode-solutions/tree/master/1171-shortest-path-in-binary-matrix) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -390,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0314-binary-tree-vertical-order-traversal](https://github.com/yashsandansing/leetcode-solutions/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0339-nested-list-weight-sum](https://github.com/yashsandansing/leetcode-solutions/tree/master/0339-nested-list-weight-sum) |
 | [0854-making-a-large-island](https://github.com/yashsandansing/leetcode-solutions/tree/master/0854-making-a-large-island) |
+| [1171-shortest-path-in-binary-matrix](https://github.com/yashsandansing/leetcode-solutions/tree/master/1171-shortest-path-in-binary-matrix) |
 ## Divide and Conquer
 |  |
 | ------- |

@@ -19,8 +19,8 @@ class Solution:
 
         while x > 0:
             num = num * 10 + (x % 10)
-            if not (MIN_INT < sign * num < MAX_INT):
-                return 0
             x = x // 10
-
+        
+        if not (MIN_INT < sign * num < MAX_INT):
+                return 0
         return sign*num

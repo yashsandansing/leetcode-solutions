@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/yashsandansing/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/yashsandansing/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0219-contains-duplicate-ii](https://github.com/yashsandansing/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
+| [0253-meeting-rooms-ii](https://github.com/yashsandansing/leetcode-solutions/tree/master/0253-meeting-rooms-ii) |
 | [0283-move-zeroes](https://github.com/yashsandansing/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/yashsandansing/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0346-moving-average-from-data-stream](https://github.com/yashsandansing/leetcode-solutions/tree/master/0346-moving-average-from-data-stream) |
@@ -225,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/yashsandansing/leetcode-solutions/tree/master/0011-container-with-most-water) |
+| [0253-meeting-rooms-ii](https://github.com/yashsandansing/leetcode-solutions/tree/master/0253-meeting-rooms-ii) |
 | [0316-remove-duplicate-letters](https://github.com/yashsandansing/leetcode-solutions/tree/master/0316-remove-duplicate-letters) |
 | [0410-split-array-largest-sum](https://github.com/yashsandansing/leetcode-solutions/tree/master/0410-split-array-largest-sum) |
 | [0670-maximum-swap](https://github.com/yashsandansing/leetcode-solutions/tree/master/0670-maximum-swap) |
@@ -233,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/yashsandansing/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
+| [0253-meeting-rooms-ii](https://github.com/yashsandansing/leetcode-solutions/tree/master/0253-meeting-rooms-ii) |
 | [0410-split-array-largest-sum](https://github.com/yashsandansing/leetcode-solutions/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/yashsandansing/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0912-random-pick-with-weight](https://github.com/yashsandansing/leetcode-solutions/tree/master/0912-random-pick-with-weight) |
@@ -245,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/yashsandansing/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/yashsandansing/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/yashsandansing/leetcode-solutions/tree/master/0242-valid-anagram) |
+| [0253-meeting-rooms-ii](https://github.com/yashsandansing/leetcode-solutions/tree/master/0253-meeting-rooms-ii) |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/yashsandansing/leetcode-solutions/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0658-find-k-closest-elements](https://github.com/yashsandansing/leetcode-solutions/tree/master/0658-find-k-closest-elements) |
 | [1014-k-closest-points-to-origin](https://github.com/yashsandansing/leetcode-solutions/tree/master/1014-k-closest-points-to-origin) |
@@ -271,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/yashsandansing/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/yashsandansing/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/yashsandansing/leetcode-solutions/tree/master/0125-valid-palindrome) |
+| [0253-meeting-rooms-ii](https://github.com/yashsandansing/leetcode-solutions/tree/master/0253-meeting-rooms-ii) |
 | [0283-move-zeroes](https://github.com/yashsandansing/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/yashsandansing/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0443-string-compression](https://github.com/yashsandansing/leetcode-solutions/tree/master/0443-string-compression) |
@@ -410,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/yashsandansing/leetcode-solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/yashsandansing/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0253-meeting-rooms-ii](https://github.com/yashsandansing/leetcode-solutions/tree/master/0253-meeting-rooms-ii) |
 | [0658-find-k-closest-elements](https://github.com/yashsandansing/leetcode-solutions/tree/master/0658-find-k-closest-elements) |
 | [1014-k-closest-points-to-origin](https://github.com/yashsandansing/leetcode-solutions/tree/master/1014-k-closest-points-to-origin) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/yashsandansing/leetcode-solutions/tree/master/3773-minimum-pair-removal-to-sort-array-i) |

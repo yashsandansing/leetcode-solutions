@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/yashsandansing/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/yashsandansing/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0056-merge-intervals](https://github.com/yashsandansing/leetcode-solutions/tree/master/0056-merge-intervals) |
+| [0057-insert-interval](https://github.com/yashsandansing/leetcode-solutions/tree/master/0057-insert-interval) |
 | [0074-search-a-2d-matrix](https://github.com/yashsandansing/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/yashsandansing/leetcode-solutions/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/yashsandansing/leetcode-solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |

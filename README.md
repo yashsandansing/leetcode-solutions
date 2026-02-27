@@ -188,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/yashsandansing/leetcode-solutions/tree/master/0374-guess-number-higher-or-lower) |
+| [0865-robot-room-cleaner](https://github.com/yashsandansing/leetcode-solutions/tree/master/0865-robot-room-cleaner) |
 | [1185-find-in-mountain-array](https://github.com/yashsandansing/leetcode-solutions/tree/master/1185-find-in-mountain-array) |
 ## Math
 |  |
@@ -294,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/yashsandansing/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0078-subsets](https://github.com/yashsandansing/leetcode-solutions/tree/master/0078-subsets) |
 | [0089-gray-code](https://github.com/yashsandansing/leetcode-solutions/tree/master/0089-gray-code) |
+| [0865-robot-room-cleaner](https://github.com/yashsandansing/leetcode-solutions/tree/master/0865-robot-room-cleaner) |
 ## Bit Manipulation
 |  |
 | ------- |

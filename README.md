@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/yashsandansing/leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [0931-maximum-frequency-stack](https://github.com/yashsandansing/leetcode-solutions/tree/master/0931-maximum-frequency-stack) |
 | [1790-lowest-common-ancestor-of-a-binary-tree-iii](https://github.com/yashsandansing/leetcode-solutions/tree/master/1790-lowest-common-ancestor-of-a-binary-tree-iii) |
+| [1816-lowest-common-ancestor-of-a-binary-tree-iv](https://github.com/yashsandansing/leetcode-solutions/tree/master/1816-lowest-common-ancestor-of-a-binary-tree-iv) |
 | [2884-length-of-the-longest-valid-substring](https://github.com/yashsandansing/leetcode-solutions/tree/master/2884-length-of-the-longest-valid-substring) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/yashsandansing/leetcode-solutions/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 | [4055-longest-balanced-substring-i](https://github.com/yashsandansing/leetcode-solutions/tree/master/4055-longest-balanced-substring-i) |
@@ -341,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0701-insert-into-a-binary-search-tree](https://github.com/yashsandansing/leetcode-solutions/tree/master/0701-insert-into-a-binary-search-tree) |
 | [1780-lowest-common-ancestor-of-a-binary-tree-ii](https://github.com/yashsandansing/leetcode-solutions/tree/master/1780-lowest-common-ancestor-of-a-binary-tree-ii) |
 | [1790-lowest-common-ancestor-of-a-binary-tree-iii](https://github.com/yashsandansing/leetcode-solutions/tree/master/1790-lowest-common-ancestor-of-a-binary-tree-iii) |
+| [1816-lowest-common-ancestor-of-a-binary-tree-iv](https://github.com/yashsandansing/leetcode-solutions/tree/master/1816-lowest-common-ancestor-of-a-binary-tree-iv) |
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/yashsandansing/leetcode-solutions/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
 |  |
@@ -366,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/yashsandansing/leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0854-making-a-large-island](https://github.com/yashsandansing/leetcode-solutions/tree/master/0854-making-a-large-island) |
 | [1780-lowest-common-ancestor-of-a-binary-tree-ii](https://github.com/yashsandansing/leetcode-solutions/tree/master/1780-lowest-common-ancestor-of-a-binary-tree-ii) |
+| [1816-lowest-common-ancestor-of-a-binary-tree-iv](https://github.com/yashsandansing/leetcode-solutions/tree/master/1816-lowest-common-ancestor-of-a-binary-tree-iv) |
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/yashsandansing/leetcode-solutions/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
 ## Binary Search Tree
 |  |
@@ -397,6 +400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0701-insert-into-a-binary-search-tree](https://github.com/yashsandansing/leetcode-solutions/tree/master/0701-insert-into-a-binary-search-tree) |
 | [1780-lowest-common-ancestor-of-a-binary-tree-ii](https://github.com/yashsandansing/leetcode-solutions/tree/master/1780-lowest-common-ancestor-of-a-binary-tree-ii) |
 | [1790-lowest-common-ancestor-of-a-binary-tree-iii](https://github.com/yashsandansing/leetcode-solutions/tree/master/1790-lowest-common-ancestor-of-a-binary-tree-iii) |
+| [1816-lowest-common-ancestor-of-a-binary-tree-iv](https://github.com/yashsandansing/leetcode-solutions/tree/master/1816-lowest-common-ancestor-of-a-binary-tree-iv) |
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/yashsandansing/leetcode-solutions/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
 ## Breadth-First Search
 |  |

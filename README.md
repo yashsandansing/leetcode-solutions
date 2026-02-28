@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/yashsandansing/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/yashsandansing/leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [0931-maximum-frequency-stack](https://github.com/yashsandansing/leetcode-solutions/tree/master/0931-maximum-frequency-stack) |
+| [1790-lowest-common-ancestor-of-a-binary-tree-iii](https://github.com/yashsandansing/leetcode-solutions/tree/master/1790-lowest-common-ancestor-of-a-binary-tree-iii) |
 | [2884-length-of-the-longest-valid-substring](https://github.com/yashsandansing/leetcode-solutions/tree/master/2884-length-of-the-longest-valid-substring) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/yashsandansing/leetcode-solutions/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 | [4055-longest-balanced-substring-i](https://github.com/yashsandansing/leetcode-solutions/tree/master/4055-longest-balanced-substring-i) |
@@ -287,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/yashsandansing/leetcode-solutions/tree/master/0658-find-k-closest-elements) |
 | [0680-valid-palindrome-ii](https://github.com/yashsandansing/leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
 | [1028-interval-list-intersections](https://github.com/yashsandansing/leetcode-solutions/tree/master/1028-interval-list-intersections) |
+| [1790-lowest-common-ancestor-of-a-binary-tree-iii](https://github.com/yashsandansing/leetcode-solutions/tree/master/1790-lowest-common-ancestor-of-a-binary-tree-iii) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/yashsandansing/leetcode-solutions/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 ## Backtracking
 |  |
@@ -337,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0450-delete-node-in-a-bst](https://github.com/yashsandansing/leetcode-solutions/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/yashsandansing/leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/yashsandansing/leetcode-solutions/tree/master/0701-insert-into-a-binary-search-tree) |
+| [1790-lowest-common-ancestor-of-a-binary-tree-iii](https://github.com/yashsandansing/leetcode-solutions/tree/master/1790-lowest-common-ancestor-of-a-binary-tree-iii) |
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/yashsandansing/leetcode-solutions/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
 |  |
@@ -390,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0450-delete-node-in-a-bst](https://github.com/yashsandansing/leetcode-solutions/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/yashsandansing/leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/yashsandansing/leetcode-solutions/tree/master/0701-insert-into-a-binary-search-tree) |
+| [1790-lowest-common-ancestor-of-a-binary-tree-iii](https://github.com/yashsandansing/leetcode-solutions/tree/master/1790-lowest-common-ancestor-of-a-binary-tree-iii) |
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/yashsandansing/leetcode-solutions/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
 ## Breadth-First Search
 |  |

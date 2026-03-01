@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1059-missing-element-in-sorted-array](https://github.com/yashsandansing/leetcode-solutions/tree/master/1059-missing-element-in-sorted-array) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/yashsandansing/leetcode-solutions/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1185-find-in-mountain-array](https://github.com/yashsandansing/leetcode-solutions/tree/master/1185-find-in-mountain-array) |
+| [1569-max-dot-product-of-two-subsequences](https://github.com/yashsandansing/leetcode-solutions/tree/master/1569-max-dot-product-of-two-subsequences) |
 | [1646-kth-missing-positive-number](https://github.com/yashsandansing/leetcode-solutions/tree/master/1646-kth-missing-positive-number) |
 | [1909-buildings-with-an-ocean-view](https://github.com/yashsandansing/leetcode-solutions/tree/master/1909-buildings-with-an-ocean-view) |
 | [2884-length-of-the-longest-valid-substring](https://github.com/yashsandansing/leetcode-solutions/tree/master/2884-length-of-the-longest-valid-substring) |
@@ -231,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/yashsandansing/leetcode-solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0410-split-array-largest-sum](https://github.com/yashsandansing/leetcode-solutions/tree/master/0410-split-array-largest-sum) |
 | [0647-palindromic-substrings](https://github.com/yashsandansing/leetcode-solutions/tree/master/0647-palindromic-substrings) |
+| [1569-max-dot-product-of-two-subsequences](https://github.com/yashsandansing/leetcode-solutions/tree/master/1569-max-dot-product-of-two-subsequences) |
 ## Greedy
 |  |
 | ------- |

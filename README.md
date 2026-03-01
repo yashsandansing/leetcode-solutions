@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0146-lru-cache](https://github.com/yashsandansing/leetcode-solutions/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/yashsandansing/leetcode-solutions/tree/master/0155-min-stack) |
+| [0295-find-median-from-data-stream](https://github.com/yashsandansing/leetcode-solutions/tree/master/0295-find-median-from-data-stream) |
 | [0346-moving-average-from-data-stream](https://github.com/yashsandansing/leetcode-solutions/tree/master/0346-moving-average-from-data-stream) |
 | [0460-lfu-cache](https://github.com/yashsandansing/leetcode-solutions/tree/master/0460-lfu-cache) |
 | [0860-design-circular-queue](https://github.com/yashsandansing/leetcode-solutions/tree/master/0860-design-circular-queue) |
@@ -254,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/yashsandansing/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/yashsandansing/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0253-meeting-rooms-ii](https://github.com/yashsandansing/leetcode-solutions/tree/master/0253-meeting-rooms-ii) |
+| [0295-find-median-from-data-stream](https://github.com/yashsandansing/leetcode-solutions/tree/master/0295-find-median-from-data-stream) |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/yashsandansing/leetcode-solutions/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0658-find-k-closest-elements](https://github.com/yashsandansing/leetcode-solutions/tree/master/0658-find-k-closest-elements) |
 | [1014-k-closest-points-to-origin](https://github.com/yashsandansing/leetcode-solutions/tree/master/1014-k-closest-points-to-origin) |
@@ -283,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0253-meeting-rooms-ii](https://github.com/yashsandansing/leetcode-solutions/tree/master/0253-meeting-rooms-ii) |
 | [0283-move-zeroes](https://github.com/yashsandansing/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/yashsandansing/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
+| [0295-find-median-from-data-stream](https://github.com/yashsandansing/leetcode-solutions/tree/master/0295-find-median-from-data-stream) |
 | [0443-string-compression](https://github.com/yashsandansing/leetcode-solutions/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/yashsandansing/leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/yashsandansing/leetcode-solutions/tree/master/0647-palindromic-substrings) |
@@ -432,6 +435,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/yashsandansing/leetcode-solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/yashsandansing/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0253-meeting-rooms-ii](https://github.com/yashsandansing/leetcode-solutions/tree/master/0253-meeting-rooms-ii) |
+| [0295-find-median-from-data-stream](https://github.com/yashsandansing/leetcode-solutions/tree/master/0295-find-median-from-data-stream) |
 | [0658-find-k-closest-elements](https://github.com/yashsandansing/leetcode-solutions/tree/master/0658-find-k-closest-elements) |
 | [1014-k-closest-points-to-origin](https://github.com/yashsandansing/leetcode-solutions/tree/master/1014-k-closest-points-to-origin) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/yashsandansing/leetcode-solutions/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
@@ -466,6 +470,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Data Stream
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/yashsandansing/leetcode-solutions/tree/master/0295-find-median-from-data-stream) |
 | [0346-moving-average-from-data-stream](https://github.com/yashsandansing/leetcode-solutions/tree/master/0346-moving-average-from-data-stream) |
 ## Simulation
 |  |

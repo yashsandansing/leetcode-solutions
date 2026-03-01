@@ -349,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0427-construct-quad-tree](https://github.com/yashsandansing/leetcode-solutions/tree/master/0427-construct-quad-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/yashsandansing/leetcode-solutions/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/yashsandansing/leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
+| [0545-boundary-of-binary-tree](https://github.com/yashsandansing/leetcode-solutions/tree/master/0545-boundary-of-binary-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/yashsandansing/leetcode-solutions/tree/master/0701-insert-into-a-binary-search-tree) |
 | [1780-lowest-common-ancestor-of-a-binary-tree-ii](https://github.com/yashsandansing/leetcode-solutions/tree/master/1780-lowest-common-ancestor-of-a-binary-tree-ii) |
 | [1790-lowest-common-ancestor-of-a-binary-tree-iii](https://github.com/yashsandansing/leetcode-solutions/tree/master/1790-lowest-common-ancestor-of-a-binary-tree-iii) |
@@ -376,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0339-nested-list-weight-sum](https://github.com/yashsandansing/leetcode-solutions/tree/master/0339-nested-list-weight-sum) |
 | [0419-battleships-in-a-board](https://github.com/yashsandansing/leetcode-solutions/tree/master/0419-battleships-in-a-board) |
 | [0543-diameter-of-binary-tree](https://github.com/yashsandansing/leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
+| [0545-boundary-of-binary-tree](https://github.com/yashsandansing/leetcode-solutions/tree/master/0545-boundary-of-binary-tree) |
 | [0854-making-a-large-island](https://github.com/yashsandansing/leetcode-solutions/tree/master/0854-making-a-large-island) |
 | [1780-lowest-common-ancestor-of-a-binary-tree-ii](https://github.com/yashsandansing/leetcode-solutions/tree/master/1780-lowest-common-ancestor-of-a-binary-tree-ii) |
 | [1816-lowest-common-ancestor-of-a-binary-tree-iv](https://github.com/yashsandansing/leetcode-solutions/tree/master/1816-lowest-common-ancestor-of-a-binary-tree-iv) |
@@ -407,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0314-binary-tree-vertical-order-traversal](https://github.com/yashsandansing/leetcode-solutions/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0450-delete-node-in-a-bst](https://github.com/yashsandansing/leetcode-solutions/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/yashsandansing/leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
+| [0545-boundary-of-binary-tree](https://github.com/yashsandansing/leetcode-solutions/tree/master/0545-boundary-of-binary-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/yashsandansing/leetcode-solutions/tree/master/0701-insert-into-a-binary-search-tree) |
 | [1780-lowest-common-ancestor-of-a-binary-tree-ii](https://github.com/yashsandansing/leetcode-solutions/tree/master/1780-lowest-common-ancestor-of-a-binary-tree-ii) |
 | [1790-lowest-common-ancestor-of-a-binary-tree-iii](https://github.com/yashsandansing/leetcode-solutions/tree/master/1790-lowest-common-ancestor-of-a-binary-tree-iii) |

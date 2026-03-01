@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/yashsandansing/leetcode-solutions/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/yashsandansing/leetcode-solutions/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/yashsandansing/leetcode-solutions/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
+| [1756-minimum-deletions-to-make-string-balanced](https://github.com/yashsandansing/leetcode-solutions/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1909-buildings-with-an-ocean-view](https://github.com/yashsandansing/leetcode-solutions/tree/master/1909-buildings-with-an-ocean-view) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/yashsandansing/leetcode-solutions/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 ## Design
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/yashsandansing/leetcode-solutions/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 | [1351-replace-the-substring-for-balanced-string](https://github.com/yashsandansing/leetcode-solutions/tree/master/1351-replace-the-substring-for-balanced-string) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/yashsandansing/leetcode-solutions/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
+| [1756-minimum-deletions-to-make-string-balanced](https://github.com/yashsandansing/leetcode-solutions/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [2884-length-of-the-longest-valid-substring](https://github.com/yashsandansing/leetcode-solutions/tree/master/2884-length-of-the-longest-valid-substring) |
 | [4055-longest-balanced-substring-i](https://github.com/yashsandansing/leetcode-solutions/tree/master/4055-longest-balanced-substring-i) |
 ## Recursion
@@ -233,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/yashsandansing/leetcode-solutions/tree/master/0410-split-array-largest-sum) |
 | [0647-palindromic-substrings](https://github.com/yashsandansing/leetcode-solutions/tree/master/0647-palindromic-substrings) |
 | [1569-max-dot-product-of-two-subsequences](https://github.com/yashsandansing/leetcode-solutions/tree/master/1569-max-dot-product-of-two-subsequences) |
+| [1756-minimum-deletions-to-make-string-balanced](https://github.com/yashsandansing/leetcode-solutions/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 ## Greedy
 |  |
 | ------- |

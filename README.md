@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0138-copy-list-with-random-pointer](https://github.com/yashsandansing/leetcode-solutions/tree/master/0138-copy-list-with-random-pointer) |
 | [0146-lru-cache](https://github.com/yashsandansing/leetcode-solutions/tree/master/0146-lru-cache) |
 | [0159-longest-substring-with-at-most-two-distinct-characters](https://github.com/yashsandansing/leetcode-solutions/tree/master/0159-longest-substring-with-at-most-two-distinct-characters) |
+| [0217-contains-duplicate](https://github.com/yashsandansing/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/yashsandansing/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/yashsandansing/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/yashsandansing/leetcode-solutions/tree/master/0314-binary-tree-vertical-order-traversal) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/yashsandansing/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/yashsandansing/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/yashsandansing/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0217-contains-duplicate](https://github.com/yashsandansing/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/yashsandansing/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 | [0253-meeting-rooms-ii](https://github.com/yashsandansing/leetcode-solutions/tree/master/0253-meeting-rooms-ii) |
 | [0283-move-zeroes](https://github.com/yashsandansing/leetcode-solutions/tree/master/0283-move-zeroes) |
@@ -263,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/yashsandansing/leetcode-solutions/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/yashsandansing/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/yashsandansing/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0217-contains-duplicate](https://github.com/yashsandansing/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/yashsandansing/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0253-meeting-rooms-ii](https://github.com/yashsandansing/leetcode-solutions/tree/master/0253-meeting-rooms-ii) |
 | [0295-find-median-from-data-stream](https://github.com/yashsandansing/leetcode-solutions/tree/master/0295-find-median-from-data-stream) |

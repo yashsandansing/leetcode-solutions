@@ -1,65 +1,68 @@
 class Node:
-    def __init__(self, key, val, prev=None, next=None):
+    def __init__(self, key, val, prev = None, next = None):
         self.key = key
         self.val = val
         self.prev = prev
         self.next = next
 
+class LinkedList:
+    def __init__(self):
+        self.first = Node(-1, -1)
+        self.last = Node(-1, -1)
+        self.first.next = self.last
+        self.last.prev = self.first
+    
+    def pop(self, node: 'Node') -> None:
+        prv, nxt = node.prev, node.next
+
+        prv.next = nxt
+        nxt.prev = prv
+    
+    def pop_left(self):
+        lru_node = self.first.next
+        self.pop(lru_node)
+        return lru_node
+    
+    def push_right(self, key: int, value: int) -> 'Node':
+        last = self.last
+        sec_last = self.last.prev
+        new_node = Node(key, value, prev = sec_last, next = last)
+        last.prev = new_node
+        sec_last.next = new_node
+
+        return new_node
+
 class LRUCache:
 
     def __init__(self, capacity: int):
         self.capacity = capacity
-        self.first = Node(0, 0) # start node to avoid indexing issues
-        self.last = Node(0, 0) # last node to avoid same
-        self.hmap = {}  # store key: Node
-        self.first.next = self.last
-        self.last.prev = self.first
+        self.lru_map = dict()  # key: Node
+        self.linked_list = LinkedList()
 
-    def remove(self, node):
-        # remove node i.e. map prev's and next's pointers to each other
-        # remove can be called at any position 
-        node.prev.next, node.next.prev = node.next, node.prev
-        
-    def insert(self, node):
-        # new element must be inserted near the end of
-        # the linked list
-        prev = self.last.prev
-        prev.next = node
-        self.last.prev = node
-
-        node.prev = prev
-        node.next = self.last
-        
     def get(self, key: int) -> int:
-        if self.hmap.get(key) is None:
+        if key not in self.lru_map:
             return -1
         
-        node = self.hmap[key]
-        # remove element and append it at the end
-        # of the list
-        self.remove(node)
-        self.insert(node)
-        return node.val
-    
-    def put(self, key: int, value: int) -> None:
-        # remove element from the list if it already exists
-        # (to update)
-        if self.hmap.get(key) is not None:
-            val = self.hmap[key]
-            self.remove(val)
-        
-        # re-map the key-value in the hash-map
-        self.hmap[key] = Node(key, value)
-        # insert at the end of the list (to maintain recent order)
-        self.insert(self.hmap[key])
+        node = self.lru_map[key]
 
-        # if most recently added element causes an overflow
-        # remove the LRU element
-        if len(self.hmap) > self.capacity:
-            rm = self.first.next
-            self.remove(rm)
-            del self.hmap[rm.key]
-        return
+        self.linked_list.pop(node)
+        new_node = self.linked_list.push_right(key, node.val)
+        self.lru_map[key] = new_node
+
+        return new_node.val
+
+    def put(self, key: int, value: int) -> None:
+        if key in self.lru_map:
+            self.linked_list.pop(self.lru_map[key])
+            del self.lru_map[key]
+        
+        new_node = self.linked_list.push_right(key, value)
+        self.lru_map[key] = new_node
+
+        if len(self.lru_map) > self.capacity:
+            lru_node = self.linked_list.pop_left()
+            del self.lru_map[lru_node.key]
+
 
 
 # Your LRUCache object will be instantiated and called as such:

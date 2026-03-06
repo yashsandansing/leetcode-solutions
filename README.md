@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0159-longest-substring-with-at-most-two-distinct-characters](https://github.com/yashsandansing/leetcode-solutions/tree/master/0159-longest-substring-with-at-most-two-distinct-characters) |
 | [0227-basic-calculator-ii](https://github.com/yashsandansing/leetcode-solutions/tree/master/0227-basic-calculator-ii) |
 | [0242-valid-anagram](https://github.com/yashsandansing/leetcode-solutions/tree/master/0242-valid-anagram) |
+| [0249-group-shifted-strings](https://github.com/yashsandansing/leetcode-solutions/tree/master/0249-group-shifted-strings) |
 | [0316-remove-duplicate-letters](https://github.com/yashsandansing/leetcode-solutions/tree/master/0316-remove-duplicate-letters) |
 | [0394-decode-string](https://github.com/yashsandansing/leetcode-solutions/tree/master/0394-decode-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/yashsandansing/leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/yashsandansing/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/yashsandansing/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/yashsandansing/leetcode-solutions/tree/master/0242-valid-anagram) |
+| [0249-group-shifted-strings](https://github.com/yashsandansing/leetcode-solutions/tree/master/0249-group-shifted-strings) |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/yashsandansing/leetcode-solutions/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0424-longest-repeating-character-replacement](https://github.com/yashsandansing/leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0460-lfu-cache](https://github.com/yashsandansing/leetcode-solutions/tree/master/0460-lfu-cache) |
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/yashsandansing/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/yashsandansing/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/yashsandansing/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
+| [0249-group-shifted-strings](https://github.com/yashsandansing/leetcode-solutions/tree/master/0249-group-shifted-strings) |
 | [0253-meeting-rooms-ii](https://github.com/yashsandansing/leetcode-solutions/tree/master/0253-meeting-rooms-ii) |
 | [0283-move-zeroes](https://github.com/yashsandansing/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/yashsandansing/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |

@@ -368,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/yashsandansing/leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0545-boundary-of-binary-tree](https://github.com/yashsandansing/leetcode-solutions/tree/master/0545-boundary-of-binary-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/yashsandansing/leetcode-solutions/tree/master/0701-insert-into-a-binary-search-tree) |
+| [0975-range-sum-of-bst](https://github.com/yashsandansing/leetcode-solutions/tree/master/0975-range-sum-of-bst) |
 | [1780-lowest-common-ancestor-of-a-binary-tree-ii](https://github.com/yashsandansing/leetcode-solutions/tree/master/1780-lowest-common-ancestor-of-a-binary-tree-ii) |
 | [1790-lowest-common-ancestor-of-a-binary-tree-iii](https://github.com/yashsandansing/leetcode-solutions/tree/master/1790-lowest-common-ancestor-of-a-binary-tree-iii) |
 | [1816-lowest-common-ancestor-of-a-binary-tree-iv](https://github.com/yashsandansing/leetcode-solutions/tree/master/1816-lowest-common-ancestor-of-a-binary-tree-iv) |
@@ -396,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/yashsandansing/leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0545-boundary-of-binary-tree](https://github.com/yashsandansing/leetcode-solutions/tree/master/0545-boundary-of-binary-tree) |
 | [0854-making-a-large-island](https://github.com/yashsandansing/leetcode-solutions/tree/master/0854-making-a-large-island) |
+| [0975-range-sum-of-bst](https://github.com/yashsandansing/leetcode-solutions/tree/master/0975-range-sum-of-bst) |
 | [1780-lowest-common-ancestor-of-a-binary-tree-ii](https://github.com/yashsandansing/leetcode-solutions/tree/master/1780-lowest-common-ancestor-of-a-binary-tree-ii) |
 | [1816-lowest-common-ancestor-of-a-binary-tree-iv](https://github.com/yashsandansing/leetcode-solutions/tree/master/1816-lowest-common-ancestor-of-a-binary-tree-iv) |
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/yashsandansing/leetcode-solutions/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
@@ -406,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/yashsandansing/leetcode-solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/yashsandansing/leetcode-solutions/tree/master/0450-delete-node-in-a-bst) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/yashsandansing/leetcode-solutions/tree/master/0701-insert-into-a-binary-search-tree) |
+| [0975-range-sum-of-bst](https://github.com/yashsandansing/leetcode-solutions/tree/master/0975-range-sum-of-bst) |
 ## Binary Tree
 |  |
 | ------- |
@@ -428,6 +431,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/yashsandansing/leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0545-boundary-of-binary-tree](https://github.com/yashsandansing/leetcode-solutions/tree/master/0545-boundary-of-binary-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/yashsandansing/leetcode-solutions/tree/master/0701-insert-into-a-binary-search-tree) |
+| [0975-range-sum-of-bst](https://github.com/yashsandansing/leetcode-solutions/tree/master/0975-range-sum-of-bst) |
 | [1780-lowest-common-ancestor-of-a-binary-tree-ii](https://github.com/yashsandansing/leetcode-solutions/tree/master/1780-lowest-common-ancestor-of-a-binary-tree-ii) |
 | [1790-lowest-common-ancestor-of-a-binary-tree-iii](https://github.com/yashsandansing/leetcode-solutions/tree/master/1790-lowest-common-ancestor-of-a-binary-tree-iii) |
 | [1816-lowest-common-ancestor-of-a-binary-tree-iv](https://github.com/yashsandansing/leetcode-solutions/tree/master/1816-lowest-common-ancestor-of-a-binary-tree-iv) |

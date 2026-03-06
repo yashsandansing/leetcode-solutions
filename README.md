@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0025-reverse-nodes-in-k-group](https://github.com/yashsandansing/leetcode-solutions/tree/master/0025-reverse-nodes-in-k-group) |
 | [0206-reverse-linked-list](https://github.com/yashsandansing/leetcode-solutions/tree/master/0206-reverse-linked-list) |
 | [0394-decode-string](https://github.com/yashsandansing/leetcode-solutions/tree/master/0394-decode-string) |
+| [1013-fibonacci-number](https://github.com/yashsandansing/leetcode-solutions/tree/master/1013-fibonacci-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0227-basic-calculator-ii](https://github.com/yashsandansing/leetcode-solutions/tree/master/0227-basic-calculator-ii) |
 | [0670-maximum-swap](https://github.com/yashsandansing/leetcode-solutions/tree/master/0670-maximum-swap) |
 | [0912-random-pick-with-weight](https://github.com/yashsandansing/leetcode-solutions/tree/master/0912-random-pick-with-weight) |
+| [1013-fibonacci-number](https://github.com/yashsandansing/leetcode-solutions/tree/master/1013-fibonacci-number) |
 | [1014-k-closest-points-to-origin](https://github.com/yashsandansing/leetcode-solutions/tree/master/1014-k-closest-points-to-origin) |
 ## Matrix
 |  |
@@ -241,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/yashsandansing/leetcode-solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0410-split-array-largest-sum](https://github.com/yashsandansing/leetcode-solutions/tree/master/0410-split-array-largest-sum) |
 | [0647-palindromic-substrings](https://github.com/yashsandansing/leetcode-solutions/tree/master/0647-palindromic-substrings) |
+| [1013-fibonacci-number](https://github.com/yashsandansing/leetcode-solutions/tree/master/1013-fibonacci-number) |
 | [1569-max-dot-product-of-two-subsequences](https://github.com/yashsandansing/leetcode-solutions/tree/master/1569-max-dot-product-of-two-subsequences) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/yashsandansing/leetcode-solutions/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 ## Greedy
@@ -511,6 +514,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/yashsandansing/leetcode-solutions/tree/master/0070-climbing-stairs) |
+| [1013-fibonacci-number](https://github.com/yashsandansing/leetcode-solutions/tree/master/1013-fibonacci-number) |
 ## Trie
 |  |
 | ------- |

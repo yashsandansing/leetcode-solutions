@@ -328,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/yashsandansing/leetcode-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/yashsandansing/leetcode-solutions/tree/master/0022-generate-parentheses) |
+| [0077-combinations](https://github.com/yashsandansing/leetcode-solutions/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/yashsandansing/leetcode-solutions/tree/master/0078-subsets) |
 | [0089-gray-code](https://github.com/yashsandansing/leetcode-solutions/tree/master/0089-gray-code) |
 | [0865-robot-room-cleaner](https://github.com/yashsandansing/leetcode-solutions/tree/master/0865-robot-room-cleaner) |

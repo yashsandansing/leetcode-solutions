@@ -1,11 +1,17 @@
 class Solution:
     def maximumSwap(self, num: int) -> int:
-        num_str = str(num)
-        best = num
-        n = len(num_str)
-        for i in range(n):
-            for j in range(i+1, n):
-                if num_str[j] > num_str[i]:
-                    temp = num_str[:i] + num_str[j] + num_str[i+1:j] + num_str[i] + num_str[j+1:]
-                    best = max(best, int(temp))
-        return best
+        num = list(str(num))
+        max_num = "0"
+        swap_i = swap_j = -1
+
+        for n in range(len(num) - 1, -1, -1):
+            if num[n] > max_num:
+                max_num = num[n]
+                max_ind = n
+            
+            if num[n] < max_num:
+                swap_i, swap_j = n, max_ind
+
+        num[swap_i], num[swap_j] = num[swap_j], num[swap_i]
+        
+        return int("".join(num))

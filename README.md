@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0647-palindromic-substrings](https://github.com/yashsandansing/leetcode-solutions/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/yashsandansing/leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
 | [0851-goat-latin](https://github.com/yashsandansing/leetcode-solutions/tree/master/0851-goat-latin) |
+| [0873-guess-the-word](https://github.com/yashsandansing/leetcode-solutions/tree/master/0873-guess-the-word) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/yashsandansing/leetcode-solutions/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/yashsandansing/leetcode-solutions/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 | [1351-replace-the-substring-for-balanced-string](https://github.com/yashsandansing/leetcode-solutions/tree/master/1351-replace-the-substring-for-balanced-string) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/yashsandansing/leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [0854-making-a-large-island](https://github.com/yashsandansing/leetcode-solutions/tree/master/0854-making-a-large-island) |
 | [0860-design-circular-queue](https://github.com/yashsandansing/leetcode-solutions/tree/master/0860-design-circular-queue) |
+| [0873-guess-the-word](https://github.com/yashsandansing/leetcode-solutions/tree/master/0873-guess-the-word) |
 | [0907-koko-eating-bananas](https://github.com/yashsandansing/leetcode-solutions/tree/master/0907-koko-eating-bananas) |
 | [0912-random-pick-with-weight](https://github.com/yashsandansing/leetcode-solutions/tree/master/0912-random-pick-with-weight) |
 | [1014-k-closest-points-to-origin](https://github.com/yashsandansing/leetcode-solutions/tree/master/1014-k-closest-points-to-origin) |
@@ -213,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/yashsandansing/leetcode-solutions/tree/master/0374-guess-number-higher-or-lower) |
 | [0865-robot-room-cleaner](https://github.com/yashsandansing/leetcode-solutions/tree/master/0865-robot-room-cleaner) |
+| [0873-guess-the-word](https://github.com/yashsandansing/leetcode-solutions/tree/master/0873-guess-the-word) |
 | [1185-find-in-mountain-array](https://github.com/yashsandansing/leetcode-solutions/tree/master/1185-find-in-mountain-array) |
 ## Math
 |  |
@@ -226,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0089-gray-code](https://github.com/yashsandansing/leetcode-solutions/tree/master/0089-gray-code) |
 | [0227-basic-calculator-ii](https://github.com/yashsandansing/leetcode-solutions/tree/master/0227-basic-calculator-ii) |
 | [0670-maximum-swap](https://github.com/yashsandansing/leetcode-solutions/tree/master/0670-maximum-swap) |
+| [0873-guess-the-word](https://github.com/yashsandansing/leetcode-solutions/tree/master/0873-guess-the-word) |
 | [0912-random-pick-with-weight](https://github.com/yashsandansing/leetcode-solutions/tree/master/0912-random-pick-with-weight) |
 | [1013-fibonacci-number](https://github.com/yashsandansing/leetcode-solutions/tree/master/1013-fibonacci-number) |
 | [1014-k-closest-points-to-origin](https://github.com/yashsandansing/leetcode-solutions/tree/master/1014-k-closest-points-to-origin) |
@@ -554,4 +558,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/yashsandansing/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0854-making-a-large-island](https://github.com/yashsandansing/leetcode-solutions/tree/master/0854-making-a-large-island) |
+## Game Theory
+|  |
+| ------- |
+| [0873-guess-the-word](https://github.com/yashsandansing/leetcode-solutions/tree/master/0873-guess-the-word) |
 <!---LeetCode Topics End-->

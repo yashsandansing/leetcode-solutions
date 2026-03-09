@@ -311,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/yashsandansing/leetcode-solutions/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/yashsandansing/leetcode-solutions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/yashsandansing/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
+| [0237-delete-node-in-a-linked-list](https://github.com/yashsandansing/leetcode-solutions/tree/master/0237-delete-node-in-a-linked-list) |
 | [0460-lfu-cache](https://github.com/yashsandansing/leetcode-solutions/tree/master/0460-lfu-cache) |
 | [0860-design-circular-queue](https://github.com/yashsandansing/leetcode-solutions/tree/master/0860-design-circular-queue) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/yashsandansing/leetcode-solutions/tree/master/2236-maximum-twin-sum-of-a-linked-list) |

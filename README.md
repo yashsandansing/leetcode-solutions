@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/yashsandansing/leetcode-solutions/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/yashsandansing/leetcode-solutions/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 | [1351-replace-the-substring-for-balanced-string](https://github.com/yashsandansing/leetcode-solutions/tree/master/1351-replace-the-substring-for-balanced-string) |
+| [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/yashsandansing/leetcode-solutions/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/yashsandansing/leetcode-solutions/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/yashsandansing/leetcode-solutions/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [2884-length-of-the-longest-valid-substring](https://github.com/yashsandansing/leetcode-solutions/tree/master/2884-length-of-the-longest-valid-substring) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1059-missing-element-in-sorted-array](https://github.com/yashsandansing/leetcode-solutions/tree/master/1059-missing-element-in-sorted-array) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/yashsandansing/leetcode-solutions/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1185-find-in-mountain-array](https://github.com/yashsandansing/leetcode-solutions/tree/master/1185-find-in-mountain-array) |
+| [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/yashsandansing/leetcode-solutions/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1569-max-dot-product-of-two-subsequences](https://github.com/yashsandansing/leetcode-solutions/tree/master/1569-max-dot-product-of-two-subsequences) |
 | [1646-kth-missing-positive-number](https://github.com/yashsandansing/leetcode-solutions/tree/master/1646-kth-missing-positive-number) |
 | [1909-buildings-with-an-ocean-view](https://github.com/yashsandansing/leetcode-solutions/tree/master/1909-buildings-with-an-ocean-view) |
@@ -349,12 +351,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/yashsandansing/leetcode-solutions/tree/master/0078-subsets) |
 | [0089-gray-code](https://github.com/yashsandansing/leetcode-solutions/tree/master/0089-gray-code) |
 | [0865-robot-room-cleaner](https://github.com/yashsandansing/leetcode-solutions/tree/master/0865-robot-room-cleaner) |
+| [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/yashsandansing/leetcode-solutions/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0078-subsets](https://github.com/yashsandansing/leetcode-solutions/tree/master/0078-subsets) |
 | [0089-gray-code](https://github.com/yashsandansing/leetcode-solutions/tree/master/0089-gray-code) |
 | [0287-find-the-duplicate-number](https://github.com/yashsandansing/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
+| [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/yashsandansing/leetcode-solutions/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
 ## Sliding Window
 |  |
 | ------- |

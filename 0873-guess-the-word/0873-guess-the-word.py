@@ -7,23 +7,32 @@
 
 class Solution:
     def findSecretWord(self, words: List[str], master: 'Master') -> None:
-        self.words = words
-        
-        candidates = set(words)
-
-        while candidates:
-            guess = candidates.pop()
-            simil = master.guess(guess)
-            if simil == 6:
+        while words:
+            best = self.bestGuess(words)
+            score = master.guess(best)
+            if score == 6:
                 return
-            candidates = {w for w in candidates if self.calculate_similarity(guess, w) == simil}
+            words = [w for w in words if self.getSimilarity(best, w) == score]
     
-    
-    def calculate_similarity(self, word: str, guess: str) -> int:
+    def getSimilarity(self, word1: str, word2: str) -> int:
         sim = 0
-        for w, g in zip(word, guess):
-            if w == g:
+        for i, j in zip(word1, word2):
+            if i == j:
                 sim += 1
-        
         return sim
     
+    def bestGuess(self, candidates: List[str]) -> str:
+        best = candidates[0]
+        min_worst = float('inf')
+        for guess in candidates:
+            scoreBuckets = defaultdict(int)
+
+            for word in candidates:
+                similarity = self.getSimilarity(guess, word)
+                scoreBuckets[similarity] += 1
+            worst = max(scoreBuckets.values())
+            if worst < min_worst:
+                best = guess
+                min_worst = worst
+        
+        return best

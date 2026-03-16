@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/yashsandansing/leetcode-solutions/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/yashsandansing/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/yashsandansing/leetcode-solutions/tree/master/0048-rotate-image) |
+| [0051-n-queens](https://github.com/yashsandansing/leetcode-solutions/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/yashsandansing/leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/yashsandansing/leetcode-solutions/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/yashsandansing/leetcode-solutions/tree/master/0056-merge-intervals) |
@@ -353,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/yashsandansing/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/yashsandansing/leetcode-solutions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/yashsandansing/leetcode-solutions/tree/master/0040-combination-sum-ii) |
+| [0051-n-queens](https://github.com/yashsandansing/leetcode-solutions/tree/master/0051-n-queens) |
 | [0077-combinations](https://github.com/yashsandansing/leetcode-solutions/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/yashsandansing/leetcode-solutions/tree/master/0078-subsets) |
 | [0089-gray-code](https://github.com/yashsandansing/leetcode-solutions/tree/master/0089-gray-code) |

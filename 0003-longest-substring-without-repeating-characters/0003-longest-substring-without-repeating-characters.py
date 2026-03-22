@@ -1,26 +1,15 @@
 class Solution:
     def lengthOfLongestSubstring(self, s: str) -> int:
-        # len -> 0 to 10^4
-        # letters digits symbols spaces
-        
-        # brute force -> i, j
-        # initialize a dict => enter current val and max_freq. if max_freq > 1. break out of j
-        # return best_len
-
-        # abcdb
-
+        characters = set()
+        l = 0
         best = 0
-        n = len(s)
-        l = r = 0
-        last_occurence = dict()
-        while r < n:
-            
+        for r in range(len(s)):
             char = s[r]
-            
-            if char in last_occurence:
-                l = max(l, last_occurence[char] + 1)
-            last_occurence[char] = r
+            while char in characters:
+                lchar = s[l]
+                characters.remove(lchar)
+                l += 1
+            characters.add(char)
             best = max(best, r - l + 1)
-            r += 1
 
         return best

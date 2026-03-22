@@ -436,6 +436,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0419-battleships-in-a-board](https://github.com/yashsandansing/leetcode-solutions/tree/master/0419-battleships-in-a-board) |
 | [0543-diameter-of-binary-tree](https://github.com/yashsandansing/leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0545-boundary-of-binary-tree](https://github.com/yashsandansing/leetcode-solutions/tree/master/0545-boundary-of-binary-tree) |
+| [0744-network-delay-time](https://github.com/yashsandansing/leetcode-solutions/tree/master/0744-network-delay-time) |
 | [0854-making-a-large-island](https://github.com/yashsandansing/leetcode-solutions/tree/master/0854-making-a-large-island) |
 | [0975-range-sum-of-bst](https://github.com/yashsandansing/leetcode-solutions/tree/master/0975-range-sum-of-bst) |
 | [1780-lowest-common-ancestor-of-a-binary-tree-ii](https://github.com/yashsandansing/leetcode-solutions/tree/master/1780-lowest-common-ancestor-of-a-binary-tree-ii) |
@@ -494,6 +495,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/yashsandansing/leetcode-solutions/tree/master/0226-invert-binary-tree) |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/yashsandansing/leetcode-solutions/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0339-nested-list-weight-sum](https://github.com/yashsandansing/leetcode-solutions/tree/master/0339-nested-list-weight-sum) |
+| [0744-network-delay-time](https://github.com/yashsandansing/leetcode-solutions/tree/master/0744-network-delay-time) |
 | [0854-making-a-large-island](https://github.com/yashsandansing/leetcode-solutions/tree/master/0854-making-a-large-island) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/yashsandansing/leetcode-solutions/tree/master/1171-shortest-path-in-binary-matrix) |
 ## Divide and Conquer
@@ -513,6 +515,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/yashsandansing/leetcode-solutions/tree/master/0295-find-median-from-data-stream) |
 | [0480-sliding-window-median](https://github.com/yashsandansing/leetcode-solutions/tree/master/0480-sliding-window-median) |
 | [0658-find-k-closest-elements](https://github.com/yashsandansing/leetcode-solutions/tree/master/0658-find-k-closest-elements) |
+| [0744-network-delay-time](https://github.com/yashsandansing/leetcode-solutions/tree/master/0744-network-delay-time) |
 | [1014-k-closest-points-to-origin](https://github.com/yashsandansing/leetcode-solutions/tree/master/1014-k-closest-points-to-origin) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/yashsandansing/leetcode-solutions/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 ## Queue
@@ -579,6 +582,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0133-clone-graph](https://github.com/yashsandansing/leetcode-solutions/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/yashsandansing/leetcode-solutions/tree/master/0207-course-schedule) |
+| [0744-network-delay-time](https://github.com/yashsandansing/leetcode-solutions/tree/master/0744-network-delay-time) |
 ## Topological Sort
 |  |
 | ------- |
@@ -592,4 +596,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0873-guess-the-word](https://github.com/yashsandansing/leetcode-solutions/tree/master/0873-guess-the-word) |
+## Shortest Path
+|  |
+| ------- |
+| [0744-network-delay-time](https://github.com/yashsandansing/leetcode-solutions/tree/master/0744-network-delay-time) |
 <!---LeetCode Topics End-->

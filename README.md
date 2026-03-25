@@ -164,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0427-construct-quad-tree](https://github.com/yashsandansing/leetcode-solutions/tree/master/0427-construct-quad-tree) |
 | [0480-sliding-window-median](https://github.com/yashsandansing/leetcode-solutions/tree/master/0480-sliding-window-median) |
 | [0496-next-greater-element-i](https://github.com/yashsandansing/leetcode-solutions/tree/master/0496-next-greater-element-i) |
+| [0529-minesweeper](https://github.com/yashsandansing/leetcode-solutions/tree/master/0529-minesweeper) |
 | [0540-single-element-in-a-sorted-array](https://github.com/yashsandansing/leetcode-solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/yashsandansing/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0636-exclusive-time-of-functions](https://github.com/yashsandansing/leetcode-solutions/tree/master/0636-exclusive-time-of-functions) |
@@ -254,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/yashsandansing/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0419-battleships-in-a-board](https://github.com/yashsandansing/leetcode-solutions/tree/master/0419-battleships-in-a-board) |
 | [0427-construct-quad-tree](https://github.com/yashsandansing/leetcode-solutions/tree/master/0427-construct-quad-tree) |
+| [0529-minesweeper](https://github.com/yashsandansing/leetcode-solutions/tree/master/0529-minesweeper) |
 | [0854-making-a-large-island](https://github.com/yashsandansing/leetcode-solutions/tree/master/0854-making-a-large-island) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/yashsandansing/leetcode-solutions/tree/master/1171-shortest-path-in-binary-matrix) |
 ## Dynamic Programming
@@ -434,6 +436,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0314-binary-tree-vertical-order-traversal](https://github.com/yashsandansing/leetcode-solutions/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0339-nested-list-weight-sum](https://github.com/yashsandansing/leetcode-solutions/tree/master/0339-nested-list-weight-sum) |
 | [0419-battleships-in-a-board](https://github.com/yashsandansing/leetcode-solutions/tree/master/0419-battleships-in-a-board) |
+| [0529-minesweeper](https://github.com/yashsandansing/leetcode-solutions/tree/master/0529-minesweeper) |
 | [0543-diameter-of-binary-tree](https://github.com/yashsandansing/leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0545-boundary-of-binary-tree](https://github.com/yashsandansing/leetcode-solutions/tree/master/0545-boundary-of-binary-tree) |
 | [0744-network-delay-time](https://github.com/yashsandansing/leetcode-solutions/tree/master/0744-network-delay-time) |
@@ -495,6 +498,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/yashsandansing/leetcode-solutions/tree/master/0226-invert-binary-tree) |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/yashsandansing/leetcode-solutions/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0339-nested-list-weight-sum](https://github.com/yashsandansing/leetcode-solutions/tree/master/0339-nested-list-weight-sum) |
+| [0529-minesweeper](https://github.com/yashsandansing/leetcode-solutions/tree/master/0529-minesweeper) |
 | [0744-network-delay-time](https://github.com/yashsandansing/leetcode-solutions/tree/master/0744-network-delay-time) |
 | [0854-making-a-large-island](https://github.com/yashsandansing/leetcode-solutions/tree/master/0854-making-a-large-island) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/yashsandansing/leetcode-solutions/tree/master/1171-shortest-path-in-binary-matrix) |

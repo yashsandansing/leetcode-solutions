@@ -6,17 +6,13 @@
 #         self.right = right
 class Solution:
     def inorderTraversal(self, root: Optional[TreeNode]) -> List[int]:
+        # LCR
         res = []
-
         def dfs(node):
-            # will return none for empty trees
             if node is None:
                 return
-            # every leaf node follows this pattern
-            # so all elements will be added inorder
             dfs(node.left)
             res.append(node.val)
             dfs(node.right)
-        
         dfs(root)
         return res

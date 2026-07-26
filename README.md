@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0851-goat-latin](https://github.com/yashsandansing/leetcode-solutions/tree/master/0851-goat-latin) |
 | [0873-guess-the-word](https://github.com/yashsandansing/leetcode-solutions/tree/master/0873-guess-the-word) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/yashsandansing/leetcode-solutions/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/yashsandansing/leetcode-solutions/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/yashsandansing/leetcode-solutions/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 | [1351-replace-the-substring-for-balanced-string](https://github.com/yashsandansing/leetcode-solutions/tree/master/1351-replace-the-substring-for-balanced-string) |
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/yashsandansing/leetcode-solutions/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/yashsandansing/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/yashsandansing/leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [0931-maximum-frequency-stack](https://github.com/yashsandansing/leetcode-solutions/tree/master/0931-maximum-frequency-stack) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/yashsandansing/leetcode-solutions/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1790-lowest-common-ancestor-of-a-binary-tree-iii](https://github.com/yashsandansing/leetcode-solutions/tree/master/1790-lowest-common-ancestor-of-a-binary-tree-iii) |
 | [1816-lowest-common-ancestor-of-a-binary-tree-iv](https://github.com/yashsandansing/leetcode-solutions/tree/master/1816-lowest-common-ancestor-of-a-binary-tree-iv) |
 | [2884-length-of-the-longest-valid-substring](https://github.com/yashsandansing/leetcode-solutions/tree/master/2884-length-of-the-longest-valid-substring) |
